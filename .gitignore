@@ -1,0 +1,14 @@
+dm_env/*
+!dm_env/helpers.dm
+
+*__pycache__
+token
+
+dmi_env/*
+!dmi_env/env.dmb
+
+raw.log
+src/*
+!src/.gitkeep
+
+env/*
